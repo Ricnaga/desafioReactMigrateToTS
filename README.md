@@ -1,4 +1,4 @@
-# <div align="center"> Desafio Migraçãod JS pra Typescript </div>
+# <div align="center"> Desafio Migração de JS pra Typescript </div>
 
 #### <div align="right">- Projeto Finalizado <div>
 
